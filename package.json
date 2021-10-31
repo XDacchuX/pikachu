@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/XDacchuX/pikachu.git"
   },
   "keywords": [
     "WhatsApp",
     "bgm",
     "Bot"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "Ameer suhail / @phaticusthiccy",
+  "author": "Darshan / Dacchu",
+  "developer": "Darshan / @XDacchuX",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com/XDacchuX/pikachu/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
