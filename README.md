@@ -5,20 +5,20 @@
 
 <div align="center">
 
-## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Darshu+Dacchu;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DARSHAN" src="https://img.shields.io/badge/Darshan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/XDacchuX"><img title="Author" src="https://img.shields.io/badge/Author-XDacchuX/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/XDacchuX">Darshan</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/Dacchu_xy?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XDacchuX&show_icons=true&theme=dark&locale=en" alt="Darshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XDacchuX&theme=dark" alt="Darshan" /></p>
 </p>
 
 
