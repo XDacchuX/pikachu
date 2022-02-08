@@ -46,10 +46,10 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_on = 'Bgm on aayi !'
         BGM_off = 'Ini Bgm varilla :('
     }
-    if (config.LANG == 'PT') {
-        l_dsc = 'Ativa a ferramenta Antilink.'
-        alr_on = 'O Antilink já está aberto!'
-        alr_off = 'Antilink está fechado no momento!'
+    if (config.LANG == 'KN') {
+        l_dsc = 'ಆಂಟಿಲಿಂಕ್ ಸಕ್ರಿಯ on off - ಓನರ್ ಕಮಾಂಡ್.'
+        alr_on = ' ಆಂಟಿಲಿಂಕ್ ಮೊದಲೇ ತೆರೆದಿದೆ !'
+        alr_off = 'ಆಂಟಿಲಿಂಕ್ ಸದ್ಯಕ್ಕೆ ಮುಚ್ಚಿದೆ !'
         BGM_on = 'bgm option turned on'
         BGM_off = 'bgm option turned off'
     }
