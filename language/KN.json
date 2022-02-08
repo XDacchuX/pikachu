@@ -12,7 +12,7 @@
             "WARN": "Atenção"
         },
         "_plugin": {
-            "INSTALL_DESC": "Instale plugins externos.",
+            "INSTALL_DESC": "external ಪ್ಲಗಿನ ಅನ್ನು ಇನ್ಸ್ಟಾಲ್ ಮಾಡಿ.",
             "NEED_URL": "Por favor insira um URL! Exemplo:",
             "UNOFF": "⚠️ *Atenção!* \n*O plugin que você instalou não é oficial!*",
             "INVALID_URL": "```Por favor, insira um URL válido!```",
@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Banir alguém do grupo. Responda a uma mensagem ou marque uma pessoa para usar o comando.",
-            "IM_NOT_ADMIN": "*Eu não sou administrador neste grupo!*",
+            "IM_NOT_ADMIN": "*ನಾನು ಗ್ರೂಪ್ ಅಡ್ಮಿನ್ ಅಲ್ಲ ಮಚ್ಚಿ!*",
             "BANNED": "expulso do grupo!",
             "GIVE_ME_USER": "*Dê-me um usuário!*",
             "ADD_DESC": "Adiciona alguém ao grupo.",
