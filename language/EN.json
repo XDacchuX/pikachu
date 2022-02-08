@@ -12,55 +12,55 @@
             "WARN": "Warn"
         },
         "_plugin": {
-            "INSTALL_DESC": "Install external plugins.",
-            "NEED_URL": "Please enter a URL! Example:",
-            "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
-            "INSTALLED": "*✅ Plugin has been successfully installed!*",
-            "PLUGIN_DESC": "Shows the plugins you have installed.",
-            "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
-            "NO_PLUGIN": "*You have not installed any external plugins!*",
-            "REMOVE_DESC": "Removes the plugin.",
-            "NEED_PLUGIN": "```Please enter a Plugin! Example: .plugin __test```",
+            "INSTALL_DESC": "external ಪ್ಲಗಿನ್ಸ್ ನಾ ಇನ್ಸ್ಟಾಲ್ ಮಾಡಿ .",
+            "NEED_URL": " Url enter ಮಾಡಿ ! Example:",
+            "INVALID_URL": "```ಮಾನ್ಯವಾಗಿರುವ url ಹಾಕಿ !```",
+            "INVALID_PLUGIN": "*❌ ನಿಮ್ಮ ಪ್ಲಗಿನ್ ಅಮಾನ್ಯವಾಗಿದೆ !*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "INSTALLED": "*✅ ಪ್ಲಗಿನ್ ಇನ್ಸ್ಟಾಲ್ ಮಾಡಲಾಗಿದೆ !*",
+            "PLUGIN_DESC": "ನೀವು ಇನ್ಸ್ಟಾಲ್ ಮಾಡಿರುವ ಪ್ಲಗಿನ್ ತೋರಿಸುವುದು .",
+            "INSTALLED_FROM_REMOTE": "*ನೀವು ಪ್ಲಗಿನ್ಸ್ ಅನ್ನು external ಆಗಿ ಇನ್ಸ್ಟಾಲ್ ಮಾಡಿ :*\n",
+            "NO_PLUGIN": "*ನೀವು ಯಾವುದೇ external ಪ್ಲಗಿನ್ ಇನ್ಸ್ಟಾಲ್ ಮಾಡಿಲ್ಲ !*",
+            "REMOVE_DESC": "ಪ್ಲಗಿನ್ ರಿಮೋವ್ ಮಾಡಿ .",
+            "NEED_PLUGIN": "```ಪ್ಲಗಿನ್ ಹೆಸರನ್ನು enter ಮಾಡಿ ! Example: .plugin __test```",
             "NOT_FOUND_PLUGIN": "```Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.```",
-            "DELETED": "*✅ Module successfully deleted!*"
+            "DELETED": "*✅ Module ಡಿಲೀಟ್ ಮಾಡಲಾಗಿದೆ !*"
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
-            "BANNED": "Mwonu Ok Bie!",
-            "GIVE_ME_USER": "*arelum mention chey😈!*",
-            "ADD_DESC": "Adds someone to the group.",
-            "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
-            "PROMOTED": "```admin role was given!```",
-            "PROMOTE_DESC": "Makes any person an admin.",
-            "DEMOTE_DESC": "Takes the authority of any admin.",
-            "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
-            "DEMOTED": "```, has been demoted!```",
-            "MUTE_DESC": "Mute the group chat. Only the admins can send a message.",
-            "MUTED": "```Group chat muted!```",
-            "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```The group chat has unmuted!```",
-            "INVITE_DESC": "Provides the group's invitation link.",
-            "INVITE": "```Invitation link: ```"
+            "IM_NOT_ADMIN": "*ನನಗೆ ಅಡ್ಮಿನ್ ಇಲ್ಲ ಮಚ್ಚಿ ☹️*",
+            "BANNED": "ಬ್ಯಾನ್ ಆಗ್ಬಿಟ್ಟ !",
+            "GIVE_ME_USER": "* user ಹೆಸರು ಕೊಡಿ 😈!*",
+            "ADD_DESC": "ಯಾರನಾದರೂ ಗ್ರೂಪ್ ಗೆ add ಮಾಡಿ .",
+            "ADDED": "ಗ್ರೂಪ್ ಗೆ add ಮಾಡಲಾಗಿದೆ !",
+            "ALREADY_PROMOTED": "```ಅಡ್ಮಿನ್ ಮೊದಲೇ ಕೊಡಲಾಗಿದೆ 🙃```",
+            "PROMOTED": "```ಅಡ್ಮಿನ್ ಆಗಿ ಪ್ರಮೋಟ್ ಮಾಡಲಾಗಿದೆ !```",
+            "PROMOTE_DESC": "ಯಾರನ್ನಾದರೂ ಅಡ್ಮಿನ್ ಮಾಡಿ .",
+            "DEMOTE_DESC": "ಅಡ್ಮಿನ್ ಇಂದ ತೆಗೆಯಿರಿ.",
+            "ALREADY_NOT_ADMIN": "```ಮೊದಲೇ ಅಡ್ಮಿನ್ ಆಗಿರುವವರನ್ನು ಮತ್ತೆ ಅಡ್ಮಿನ್ ಹೇಗೆ ಮಾಡಲಿ ?```",
+            "DEMOTED": "```, ಅಡ್ಮಿನ್ ಇಂದ ತಗೆಯಲಾಗಿದೆ !```",
+            "MUTE_DESC": "ಗ್ರೂಪ್ ಚಾಟ್ ಅನ್ನು ಮ್ಯೂಟ್ ಮಾಡಿ . ಅಡ್ಮಿನ್ಸ್ ಮಾತ್ರ ಮೆಸೇಜ್ ಸೆಂಡ್ ಮಾಡಲು ಸಾದ್ಯ .",
+            "MUTED": "```ಗ್ರೂಪ್ ಚಾಟ್ ಮ್ಯೂಟ್ ಮಾಡಲಾಗಿದೆ !```",
+            "UNMUTE_DESC": "ಗ್ರೂಪ್ ಚಾಟ್ ಅನ್ನು unmute ಮಾಡಿ . ಎಲ್ಲರೂ ಮೆಸೇಜ್ ಮಾಡಬಹುದು .",
+            "UNMUTED": "```ಗ್ರೂಪ್ ಚಾಟ್ unmute ಮಾಡಲಾಗಿದೆ !```",
+            "INVITE_DESC": "invitation ಲಿಂಕ್ ಅನ್ನು ಕೊಡಲಾಗುವುದು .",
+            "INVITE": "```invitation ಲಿಂಕ್ : ```"
         },
         "locate": {
-            "L_DESC": "It send your location.",
-            "L_WARN": "Please open your location before using command!"
+            "L_DESC": "ನಿಮ್ಮ ಲೊಕೇಶನ್ ಅನ್ನು ಸೆಂಡ್ ಮಾಡುವುದು .",
+            "L_WARN": "ದಯವಿಟ್ಟು ನೀವೇ ಓಪನ್ ಮಾಡಿ ನಿಮ್ಮ ಲೊಕೇಶನ್ ಅನ್ನು !"
         },
         "afk": {
-            "AFK_DESC": "It makes you AFK - Away From Keyboard.",
-            "IM_AFK": "*I'm AFK now!*",
-            "IM_AFK_NOMD": "I'm AFK now!",
-            "REASON": "Reason",
-            "LAST_SEEN": "Last Seen",
-            "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "I am bot!",
-            "HOUR": "hour",
-            "MINUTE": "minute",
-            "SECOND": "second"
+            "AFK_DESC": "AFK ನೀವು offline - keyboard ಇಂದ ದೂರ .",
+            "IM_AFK": "*ನಾನು AFK ಅಗಿದೇನೆ !*",
+            "IM_AFK_NOMD": "ನಾನು AFK ಆಗಿದ್ದೇನೆ!",
+            "REASON": "ಕಾರಣ ",
+            "LAST_SEEN": "ಕೊನೆಯದಾಗಿ ನೋಡ್ದಿದು ",
+            "IM_NOT_AFK": "```ನಾನು AFK ಇಂದ ಹೊರಬಂದಿದ್ದೇನೆ !```",
+            "AFK_TEXT": "```ನಮ್ಮ ಓನರ್ ಸದ್ಯಕ್ಕೆ ಆನ್ಲೈನ್ ಇಲ್ಲ .```",
+            "AFK_TEXT_NOMD": "ನಾನು ಒಂದು ಬೊಟ್ !",
+            "HOUR": "ಗಂಟೆ",
+            "MINUTE": "ನಿಮಿಷ",
+            "SECOND": "ಸೆಕೆಂಡ್"
         },
         "evaluators": {
             "TERM_DESC": "Allows to run the command on the server's shell.",
@@ -325,7 +325,7 @@
             "T_DESC": "Applies the selected TBlend effect to videos." 
         },
         "mute": {
-            "1MUTE": "*The group was silenced for 1 minute!*",
+            "1MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 1 ನಿಮಿಷ ಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
             "2MUTE": "*The group was silenced for 2 minute!*",
             "3MUTE": "*The group was silenced for 3 minute!*",
             "4MUTE": "*The group was silenced for 4 minute!*",
@@ -453,9 +453,9 @@
         "wallpaper": {
             "WP": "It sends high resolution wallpapers."
         },
-        "webss": {
-            "SS_DESC": "Takes a screenshot from the page in the given link.",
-            "LİNK": "You must enter link!"
+           "webss": {
+            "SS_DESC": "ಕೊಟ್ಟಿರುವ ಲಿಂಕ್ ನ ಪೇಜ್ ಅನ್ನು screenshot ತೆಗೆಯುವುದು .",
+            "LİNK": "ನೀವು ಲಿಂಕ್ ಅನ್ನು ಅಗತ್ಯ ವಾಗಿ ಹಾಕಬೇಕು !"
         },
         "voicy": {
             "NEED_REPLY": "```Please reply to any message!```",
@@ -479,63 +479,63 @@
             "USAGE": ".insta <userName>",
             "DESC": "Fetches user informations from instagram",
             "LOADING": "Fetching user data.. please wait.",
-            "USERNAME": "Username",
-            "NAME": "Name",
+            "USERNAME": "Username ",
+            "NAME": "ಹೆಸರು ",
             "BIO": "Biography",
-            "FOLLOWERS": "Followers",
-            "FOLLOWS": "Follows",
-            "ACCOUNT": "Account privacy",
-            "PUBLIC": "Public",
-            "HIDDEN": "Hidden",
-            "NOT_FOUND":"User not found: "
+            "FOLLOWERS": "ಹಿಂಬಾಲಿಸಿದವರು",
+            "FOLLOWS": "ಹಿಂಬಾಲಿಸಿ ",
+            "ACCOUNT": "ಅಕೌಂಟ್ ಪ್ರೈವಸಿ ",
+            "PUBLIC": "ಸಾರ್ವಜನಿಕ ",
+            "HIDDEN": "ಗುಪ್ತ ",
+            "NOT_FOUND":"User ಸಿಕ್ಕಲಿಲ್ಲ : "
         },
         "qrgenerator": {
-             "TEXT": "You must enter text!",
+             "TEXT": "ನೀವು ಅಕ್ಷರವನ್ನು ಹಾಕಬೇಕು !",
             "QR_DESC": "Converts the given text into a qr code image."
             
         },
         "whois": {
             "PL_DESC": "Displays metadata data of group or person.",
-            "SUB": "*Group Name:* ",
-            "DES": "*Group Description:* ",
-            "OWN": "*Founder:* ",
+            "SUB": "*ಗ್ರೂಪ್ ನ ಹೆಸರು :* ",
+            "DES": "*ಗ್ರೂಪ್ ನ description :* ",
+            "OWN": "*ಸ್ಥಾಪಕ:* ",
             "COD": "*Unique Group Code:* ",
-            "JİD": "*Person JID:* ",
-            "ST": "*Person Status:* "
+            "JİD": "*ವ್ಯಕ್ತಿಯ JID:* ",
+            "ST": "*ವ್ಯಕ್ತಿಯ Status:* "
         },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
             "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
         },
         "lyrics": {
-            "LY_DESC": "Finds the lyrics of the song.",
-            "NEED": "```You Must Write Any Song!```",
-            "SLY": "Lyrics:",
-            "AUT": "Song Owner:",
-            "BUL": "Founded Song:",
-            "ARAT": "Searched Song:"
+            "LY_DESC": "ಸಾಂಗ್ ನಾ ಲಿರಿಕ್ಸ್ ಅನ್ನು ಹುಡುಕಾಲಗುವುದು .",
+            "NEED": "```ನೀವು ಸಾಂಗ್ ಹೆಸರನ್ನು  ಹಾಕಬೇಕು !```",
+            "SLY": "ಲಿರಿಕ್ಸ್ :",
+            "AUT": "ಸಾಂಗ್ ಓನರ್ :",
+            "BUL": "ಸಾಂಗ್ ಹುಡುಕಲಾಗಿದೆ :",
+            "ARAT": "ಸಾಂಗ್ ಅನ್ನು ಹುಡುಕಲಾಗಿದೆ :"
         },
         "github": {
             "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
-            "NAME": "Name:",
+            "NAME": "ಹೆಸರು:",
             "USERNAME": "Username:",
             "REPO": "Public Repos:",
             "BİO": "Biography:",
             "FOLLOWİNG": "Following:",
-            "COMPANY": "Company:",
+            "COMPANY": "ಕಂಪನಿ :",
             "BLOG": "Blog:",
-            "MAİL": "Mail Address:",
-            "LOCATİON": "Location:",
+            "MAİL": "Mail ಅಡ್ರೆಸ್:",
+            "LOCATİON": "ಸ್ಥಳ :",
             "GİST": "Public Gists:",
-            "JOİN": "Joining Date:",
+            "JOİN": "ಸೇರಿಕೊಂದ ದಿನಾಂಕ :",
             "HİRE_FALSE": "Cannot Hirable 🚫",
             "HİRE_TRUE": "Hirable ☑️",
             "HİRE": "Can s/he Hirable?:",
-            "URL": "Profile URL:",
-            "UPDATE": "Last Update:"
+            "URL": "ಪ್ರೊಫೈಲ್ ನ URL:",
+            "UPDATE": "ಕೊನೆಯ ಅಪ್ಡೇಟ್ :"
         }
     }
 }
