@@ -153,8 +153,8 @@
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
-            "BLOCK_DESC": "Block user.",
-            "UNBLOCK_DESC": "Unblock user.",
+            "BLOCK_DESC": " ಬ್ಲಾಕ್ ಮಾಡಿ .",
+            "UNBLOCK_DESC": "Unblock ಮಾಡಿ .",
             "BLOCKED": "blocked",
             "UNBLOCKED": "unblocked",
             "BLOCKED_UPPER": "Blocked!",
@@ -196,15 +196,15 @@
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 Searching...*",
+            "SEARCHING": "*🔎 ಹುಡುಕಲಾಗುತಿದೆ ...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
+            "STICKER_DESC": "ಇದು ನಿಮ್ಮ ಫೋಟೋ ಅಥವಾ ವಿಡಿಯೋ ಅನ್ನು ಸ್ಟಿಕರ್ ಆಗಿ ಪರಿವರ್ತಸುತ್ತೆ .",
+            "NEED_REPLY": "*ಫೋಟೋ ಅಥವಾ ವಿಡಿಯೋ ಗೆ reply ಮಾಡಿ !*",
+            "DOWNLOADING": "```ಸ್ಟಿಕರ್ ready ಆಗ್ತಿದೆ ತಡಿರೋ 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -212,15 +212,15 @@
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*I am not admin in this group!*"
+            "ADMİN": "*ನಾನು ಈ ಗ್ರೂಪ್ ಅಡ್ಮಿನ್ ಅಲ್ಲ !*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
+            "UPDATER_DESC": "ಅಪ್ಡೇಟ್ ಅನ್ನು ಚೆಕ್ ಮಾಡಿ .",
+            "UPDATE": "*ನಿಮ್ಮ bot ಸಂಪೂರ್ಣವಾಗಿ up-to-date ಆಗಿದೆ !*",
             "NEW_UPDATE": "*Pikachu Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw \n https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
-            "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
+            "INVALID_HEROKU": "*❌ ನಿಮ್ಮ Heroku ಮಾಹಿತಿ ತಪ್ಪಾಗಿದೆ !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
             "AFTER_UPDATE": "*😎 Pikachu Restarting*"
@@ -339,9 +339,9 @@
             "12MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 12 ನಿಮಿಷಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
             "13MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 13 ನಿಮಿಷಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
             "14MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 14 ನಿಮಿಷಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
-            "15MUTE": "*The group was silenced for 15 minute!*",
-            "16MUTE": "*The group was silenced for 16 minute!*",
-            "17MUTE": "*The group was silenced for 17 minute!*",
+            "15MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 15 ನಿಮಿಷಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
+            "16MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 16 ನಿಮಿಷಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
+            "17MUTE": "*ಗ್ರೂಪ್ ಅನ್ನು 17 ನಿಮಿಷಗಳ ಕಾಲ ನಿಶಬ್ಧ ಮಾಡಲಾಗಿದೆ!*",
             "18MUTE": "*The group was silenced for 18 minute!*",
             "19MUTE": "*The group was silenced for 19 minute!*",
             "20MUTE": "*The group was silenced for 20 minute!*",
@@ -420,9 +420,9 @@
         },
         "spammer": {
             "SPAM_DESC": "It spam until you stop it.\n⌨️ Example: .spam test",
-            "NEED_WORD": "*Need Some Words!*",
+            "NEED_WORD": "ಪದಗಳ್ಳನ್ನು ಅಗತ್ಯ ವಾಗಿ ಹಾಕಿ !*",
             "STOP_SPAMDESC": "Stops spam command.",
-            "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*"
+            "STOP_SPAM": "✅ *Spam ಅನ್ನು ನಿಲ್ಲಿಸಲಾಗಿದೆ !ಕೆಲವು ಕ್ಷಣ ಕಾಯಿರಿ .*"
         },
         "carbon": {
             "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
